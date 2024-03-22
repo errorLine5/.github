@@ -1,2 +1,2 @@
 # .github
-ERROR: Line 5 infos
+Error: is missing (Line 5 : 0)
